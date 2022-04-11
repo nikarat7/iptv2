@@ -9,7 +9,7 @@ http://new-pro.tv:8080/Fernando/123321/69394?checkedby:iptvcat.com
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Business Bloomberg
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF58jsylUCuA0dA7GNjnwyI?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) NOOVO (D)
+#EXTINF:-1 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) NOOVO (D)
 http://fortv.cc:8080/alphonso/alphonso/57501?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) RDS (R)
 http://fortv.cc:8080/alphonso/alphonso/57325?checkedby:iptvcat.com
