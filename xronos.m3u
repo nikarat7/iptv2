@@ -11,6 +11,86 @@ http://new-pro.tv:8080/Fernando/123321/69394?checkedby:iptvcat.com
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Business Bloomberg
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFF58jsylUCuA0dA7GNjnwyI?checkedby:iptvcat.com
+#EXTINF:-1,USA: TSN1
+http://104.245.96.214:8000/live/manolo/manolo1/197.ts
+#EXTINF:-1,USA: TSN2
+http://104.245.96.214:8000/live/manolo/manolo1/198.ts
+#EXTINF:-1,USA: TSN4
+http://104.245.96.214:8000/live/manolo/manolo1/199.ts
+#EXTINF:-1,USA: TSN5
+http://104.245.96.214:8000/live/manolo/manolo1/200.ts
+#EXTINF:-1,USA: NBA TV
+http://104.245.96.214:8000/live/manolo/manolo1/196.ts
+#EXTINF:-1,USA | NBA Live 1
+http://104.245.96.214:8000/live/manolo/manolo1/679.ts
+#EXTINF:-1,USA | NBA Live 10
+http://104.245.96.214:8000/live/manolo/manolo1/678.ts
+#EXTINF:-1,USA | NBA Live 2
+http://104.245.96.214:8000/live/manolo/manolo1/677.ts
+#EXTINF:-1,USA | NBA Live 3
+http://104.245.96.214:8000/live/manolo/manolo1/676.ts
+#EXTINF:-1,USA | NBA Live 4
+http://104.245.96.214:8000/live/manolo/manolo1/675.ts
+#EXTINF:-1,USA | NBA Live 5
+http://104.245.96.214:8000/live/manolo/manolo1/674.ts
+#EXTINF:-1,USA | NBA Live 6
+http://104.245.96.214:8000/live/manolo/manolo1/673.ts
+#EXTINF:-1,USA | NBA Live 7
+http://104.245.96.214:8000/live/manolo/manolo1/672.ts
+#EXTINF:-1,USA | NBA Live 8
+http://104.245.96.214:8000/live/manolo/manolo1/671.ts
+#EXTINF:-1,USA | NBA Live 9
+http://104.245.96.214:8000/live/manolo/manolo1/670.ts
+#EXTINF:-1,USA | NHL HD 1
+http://104.245.96.214:8000/live/manolo/manolo1/653.ts
+#EXTINF:-1,USA | NHL HD 10
+http://104.245.96.214:8000/live/manolo/manolo1/652.ts
+#EXTINF:-1,USA | NHL HD 2
+http://104.245.96.214:8000/live/manolo/manolo1/648.ts
+#EXTINF:-1,USA | NHL HD 3
+http://104.245.96.214:8000/live/manolo/manolo1/647.ts
+#EXTINF:-1,USA | NHL HD 4
+http://104.245.96.214:8000/live/manolo/manolo1/646.ts
+#EXTINF:-1,USA | NHL HD 5
+http://104.245.96.214:8000/live/manolo/manolo1/645.ts
+#EXTINF:-1,USA | NHL HD 6
+http://104.245.96.214:8000/live/manolo/manolo1/644.ts
+#EXTINF:-1,USA | NHL HD 7
+http://104.245.96.214:8000/live/manolo/manolo1/643.ts
+#EXTINF:-1,USA | NHL HD 8
+http://104.245.96.214:8000/live/manolo/manolo1/642.ts
+#EXTINF:-1,USA | NHL HD 9
+http://104.245.96.214:8000/live/manolo/manolo1/641.ts
+#EXTINF:-1,USA || Fox Sports 1
+http://104.245.96.214:8000/live/manolo/manolo1/2972.ts
+#EXTINF:-1,USA || Fox Sports 2
+http://104.245.96.214:8000/live/manolo/manolo1/2971.ts
+#EXTINF:-1,USA || Bein Sports
+http://104.245.96.214:8000/live/manolo/manolo1/3000.ts
+#EXTINF:-1,ESPN
+http://104.245.96.214:8000/live/manolo/manolo1/89.ts
+#EXTINF:-1,ESPN 2
+http://104.245.96.214:8000/live/manolo/manolo1/90.ts
+#EXTINF:-1,ESPN 3
+http://104.245.96.214:8000/live/manolo/manolo1/86.ts
+#EXTINF:-1,ESPN Plus
+http://104.245.96.214:8000/live/manolo/manolo1/85.ts
+#EXTINF:-1,CA | SPORTSNET WORLD
+http://vip1080.us:8000/live/Hakan/asdfghj/9442.m3u8
+#EXTINF:-1,CA | TSN 1
+http://vip1080.us:8000/live/Hakan/asdfghj/9444.m3u8
+#EXTINF:-1,CA | TSN 2
+http://vip1080.us:8000/live/Hakan/asdfghj/22782.m3u8
+#EXTINF:-1,CA | TSN 3
+http://vip1080.us:8000/live/Hakan/asdfghj/22783.m3u8
+#EXTINF:-1,CA | TSN 4
+http://vip1080.us:8000/live/Hakan/asdfghj/32756.m3u8
+#EXTINF:-1,CA | TSN 5
+http://vip1080.us:8000/live/Hakan/asdfghj/32742.m3u8
+#EXTINF:-1,USA | NHL NETWORK
+http://vip1080.us:8000/live/Hakan/asdfghj/9451.m3u8
+#EXTINF:-1,NBA TV HD TR
+http://vip1080.us:8000/live/Hakan/asdfghj/4535.m3u8
 #EXTINF:-1 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) NOOVO (D)
 http://fortv.cc:8080/alphonso/alphonso/57501?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) RDS (R)
@@ -53,20 +133,6 @@ http://fortv.cc:8080/alphonso/alphonso/47387?checkedby:iptvcat.com
 http://fortv.cc:8080/alphonso/alphonso/20975?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet World HD (R)
 http://fortv.cc:8080/alphonso/alphonso/75675?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TSN 1 (E)
-http://fortv.cc:8080/alphonso/alphonso/57292?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TSN 2 HD (B)
-http://fortv.cc:8080/alphonso/alphonso/47442?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TSN 3 HD (B)
-http://fortv.cc:8080/alphonso/alphonso/47444?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TSN 4 HD (B)
-http://fortv.cc:8080/alphonso/alphonso/16130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TSN 5 HD (B)
-http://fortv.cc:8080/alphonso/alphonso/57467?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TSN 5 HD (B)
-http://fortv.cc:8080/alphonso/alphonso/16131?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA-NBA TV
-http://fortv.cc:8080/alphonso/alphonso/22995?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CAN-Sportsnet 360 (TV)(720)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/119364?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Montreal HD
