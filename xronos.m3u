@@ -25,24 +25,6 @@ http://ky-iptv.com:25461/EykcSv293V/mMQb64rSua/498926
 http://ky-iptv.com:25461/EykcSv293V/mMQb64rSua/1651453
 #EXTINF:-1,GR: Cosmote Sport 7 HD
 http://ky-iptv.com:25461/EykcSv293V/mMQb64rSua/1651452
-#EXTINF:-1 group-title="Belgium",BE: VOO SPORT 1 FHD
-http://ky-iptv.com:25461/EykcSv293V/mMQb64rSua/227546
-#EXTINF:-1,GR: COSMOTE SPORT 1 HD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16773.ts
-#EXTINF:-1,GR: COSMOTE SPORT 2 HD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16774.ts
-#EXTINF:-1,GR: COSMOTE SPORT 4 HD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16775.ts
-#EXTINF:-1,GR: COSMOTE SPORT 5 HD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16776.ts
-#EXTINF:-1,GR: COSMOTE SPORT 6 HD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16777.ts
-#EXTINF:-1,GR: COSMOTE SPORT 7 FHD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16778.ts
-#EXTINF:-1,GR: COSMOTE SPORT 8 FHD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16779.ts
-#EXTINF:-1,GR: COSMOTE SPORT 9 HD
-http://live.phenixiptv.com:8080/iptvtree/kTSCSTD/16780.ts
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",AT&T Sportsnet South HD
