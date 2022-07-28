@@ -1,32 +1,12 @@
 #EXTM3U
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",COSMOTE CINEMA 2
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291105?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",COSMOTE CINEMA 3
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291106?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",COSMOTE History
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/45229?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/124?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 2
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/18?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 3
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/4269?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 4
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/125?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 5
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/4271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 6
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/4272?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 7
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/126?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",COSMOTE SPORT 9
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/121356?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",Cosmote Sport 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145132?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",Cosmote Sport 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145134?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",Cosmote Sport 5 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145136?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Cosmote Sport 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145132?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Cosmote Sport 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145134?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Cosmote Sport 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128417?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Cosmote Sport 5 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145136?checkedby:ahlakid.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",VIP COSMOTE Cinema 1
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211253?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",VIP COSMOTE Cinema 2
@@ -43,22 +23,56 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211258?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211283?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",VIP COSMOTE Series
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211256?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",VIP COSMOTE Sport 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211243?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",VIP COSMOTE Sport 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211244?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",VIP COSMOTE Sport 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211245?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",VIP COSMOTE Sport 4 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",VIP COSMOTE Sport 5 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",VIP COSMOTE Sport 6 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211248?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",VIP COSMOTE Sport 7 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211249?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",VIP COSMOTE Village
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211287?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP COSMOTE Sport 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211243?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP COSMOTE Sport 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211244?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP COSMOTE Sport 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211245?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP COSMOTE Sport 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211246?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP COSMOTE Sport 5 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211247?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP COSMOTE Sport 6 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211248?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP COSMOTE Sport 7 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211249?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/320322?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/320323?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/320324?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport 5 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211235?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport 6 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/369506?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport News
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/212901?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport Prime FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/387059?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport Prime HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/369508?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sport Start HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/369507?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports 1 FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394959?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports 2 FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394958?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports 3 FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394957?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports 4 FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394956?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports 5 FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394955?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports 6 FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394954?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports NEWS FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394960?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports PRIME FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394953?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - VIP Nova Sports START FULL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/394952?checkedby:ahlakid.com
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/16/Bloomberg_new_4-3_light_background_001_xlrg.png" group-title="Business",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",AT&T Sportsnet South HD
